@@ -1,0 +1,11 @@
+{
+  "name": "Nailo — Mobil Tırnak Uzmanları",
+  "short_name": "Nailo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#FF2D55",
+  "lang": "tr",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
